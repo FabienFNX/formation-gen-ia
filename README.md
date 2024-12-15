@@ -44,3 +44,16 @@ To learn more about the AI SDK or Next.js by Vercel, take a look at the followin
 
 - Utiliser le code intégrant Langchain pour créer un chatbot capable de répondre à des questions sur un thème donné.
 - Utiliser le code intégrant Langchain pour créer un chatbot capable de répondre à des questions sur git en utilisant une chaine de RAG avec le fichier présent dans le dossier "assets".
+
+
+## Jour 4
+
+- Utiliser le code intégrant Langchain pour créer un chatbot capable de répondre à des questions sur un thème donné.
+- Utiliser le code intégrant Langchain pour créer un chatbot capable de répondre à des questions sur git en utilisant une chaine de RAG avec le fichier présent dans le dossier "assets".
+
+
+## Jour 5
+
+- Mettre à jour le code pour utiliser l'outil "get_current_weather" pour répondre à des questions sur le temps.
+- Créer votre propre outil qui permette d'accéder à un ensemble de données représentant des clients sous forme de JSON pour répondre à des questions sur ces clients.
+
