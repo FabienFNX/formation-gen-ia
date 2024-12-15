@@ -33,3 +33,8 @@ To learn more about the AI SDK or Next.js by Vercel, take a look at the followin
 
 - Deuxième exercice :
     - Mettre en place un jeu de rôle avec le chatbot pour tester le candidat sur sa capacité à répondre à des questions sur un thème donné.
+
+
+## Jour 2
+
+- Réutiliser le code de la journée 1 pour créer des questions ouvertes afin de tester le candidat sur sa capacité à répondre à des questions sur un thème donné. Le logiciel devra être en mesure de noter la réponse du candidat sur une échelle de 0 à 10 et justifier sa note.
