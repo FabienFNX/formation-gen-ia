@@ -21,3 +21,26 @@ To learn more about the AI SDK or Next.js by Vercel, take a look at the followin
 
 - [AI SDK Documentation](https://sdk.vercel.ai/docs)
 - [Next.js Documentation](https://nextjs.org/docs)
+
+
+# Exercices
+
+## Jour 1
+
+- Premier exercice : 
+   - Lorsque vous allez demander au chatbot un thème, par exemple "git", celui-ci doit vous répondre par une question sur ce thème avec différentes possibilités de réponses.
+   - Lorsque vous allez répondre à la question, le chatbot doit vous répondre avec la bonne réponse.
+
+- Deuxième exercice :
+    - Mettre en place un jeu de rôle avec le chatbot pour tester le candidat sur sa capacité à répondre à des questions sur un thème donné.
+
+
+## Jour 2
+
+- Réutiliser le code de la journée 1 pour créer des questions ouvertes afin de tester le candidat sur sa capacité à répondre à des questions sur un thème donné. Le logiciel devra être en mesure de noter la réponse du candidat sur une échelle de 0 à 10 et justifier sa note.
+
+
+## Jour 3
+
+- Utiliser le code intégrant Langchain pour créer un chatbot capable de répondre à des questions sur un thème donné.
+- Utiliser le code intégrant Langchain pour créer un chatbot capable de répondre à des questions sur git en utilisant une chaine de RAG avec le fichier présent dans le dossier "assets".
