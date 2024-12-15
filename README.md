@@ -21,3 +21,15 @@ To learn more about the AI SDK or Next.js by Vercel, take a look at the followin
 
 - [AI SDK Documentation](https://sdk.vercel.ai/docs)
 - [Next.js Documentation](https://nextjs.org/docs)
+
+
+# Exercices
+
+## Jour 1
+
+- Premier exercice : 
+   - Lorsque vous allez demander au chatbot un thème, par exemple "git", celui-ci doit vous répondre par une question sur ce thème avec différentes possibilités de réponses.
+   - Lorsque vous allez répondre à la question, le chatbot doit vous répondre avec la bonne réponse.
+
+- Deuxième exercice :
+    - Mettre en place un jeu de rôle avec le chatbot pour tester le candidat sur sa capacité à répondre à des questions sur un thème donné.
